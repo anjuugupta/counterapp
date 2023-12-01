@@ -1,0 +1,26 @@
+
+.increment{
+    font-size:22px;
+    margin:15px;
+    background: #20880b;
+    color:#fff;
+    padding: 17px;
+    border-radius: 5px;
+    border: none;
+}
+.increment:hover{
+    background: #438536;
+    color:#fff;
+}
+.decrement{
+    font-size:22px;
+    margin:15px;
+    background: #880b0b;
+    padding: 17px;
+    color:#fff;
+    border-radius: 5px;
+    border: none;
+}
+.decrement:hover{
+    background: #861e1e;
+}
